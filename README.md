@@ -55,7 +55,8 @@ The project enhanced my knowledge of digital tools and improved my ability to us
 
 ---
 
-Digital litracy quiz
+## Digital litracy quiz
+
 I created a google form to spread awareness about digital litracy
 
 FORM LINK :https://forms.gle/jrtu5RCtrXYeHPVf7
