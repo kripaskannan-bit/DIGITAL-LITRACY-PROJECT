@@ -15,24 +15,40 @@ This project is created as part of the Digital Literacy course. It focuses on bu
 ## 📂 Tasks Included
 
 ### 🔹 Task 1 – Digital Literacy Infographic
-Created an infographic using Canva highlighting digital literacy, safe internet practices, professional online presence, and email etiquette.
+Topics covered:
+Digital literacy basics
+Safe internet practices
+Professional online presence
+Email etiquette
 
 ### 🔹 Task 2 – Digital Portfolio
-Developed professional profiles on platforms like GitHub, LinkedIn, and Kaggle to build an online presence.
+Created profiles on:
+GitHub
+LinkedIn
+Kaggle
+Built a GitHub profile README
 
 ### 🔹 Task 3 – Platforms & Tools
-Completed a beginner-level coding problem on HackerRank and created a Google Form quiz to test digital literacy awareness.
+🔹 Coding Practice
+Completed beginner problem on HackerRank
+🔹 Google Form
+Created a Digital Literacy Awareness Quiz (5 questions)
+🔗 Form Link:https://forms.gle/jrtu5RCtrXYeHPVf7
 
 ### 🔹 Task 4 – Email Etiquette
-Drafted professional emails and created a checklist of social media do’s and don’ts.
+Wrote two professional emails:
+Assignment extension request
+Internship inquiry
+Created social media Do’s and Don’ts checklist
 
 ### 🔹 Task 5 – Cybercrime Awareness
-Prepared a case study on phishing and created a prevention checklist to promote online safety.
+Prepared a case study on phishing  
+Created a prevention checklist to promote online safety.
 
 ---
 
 ## 🔗 Project Links
-- Google Form:https://forms.gle/jrtu5RCtrXYeHPVf7
+-the complete project report is available here
 
 ---
 
