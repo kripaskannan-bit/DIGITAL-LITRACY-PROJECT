@@ -19,8 +19,11 @@ This project is created as part of the Digital Literacy course. It focuses on bu
 Topics covered:
 
 Digital literacy basics
+
 Safe internet practices
+
 Professional online presence
+
 Email etiquette
 
 ### 🔹 Task 2 – Digital Portfolio
@@ -28,8 +31,11 @@ Email etiquette
 Created profiles on:
 
 GitHub
+
 LinkedIn
+
 Kaggle
+
 Built a GitHub profile README
 
 ### 🔹 Task 3 – Platforms & Tools
@@ -49,12 +55,15 @@ Created a Digital Literacy Awareness Quiz (5 questions)
 Wrote two professional emails:
 
 Assignment extension request
+
 Internship inquiry
+
 Created social media Do’s and Don’ts checklist
 
 ### 🔹 Task 5 – Cybercrime Awareness
 
 Prepared a case study on phishing  
+
 Created a prevention checklist to promote online safety.
 
 ---
